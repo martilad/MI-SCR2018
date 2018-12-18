@@ -1,0 +1,2 @@
+# MI-SCR2018
+Subject MI-SCR at FIT CTU
